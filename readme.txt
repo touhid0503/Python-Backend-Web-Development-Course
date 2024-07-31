@@ -1,4 +1,4 @@
-Backend web dev with python -- freecodecamp
+Python Backend Web Development Course
 installation
 variables
 strings
